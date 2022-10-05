@@ -1,0 +1,21 @@
+[debug] [2022-10-05T18:08:13.430Z] ----------------------------------------------------------------------
+[debug] [2022-10-05T18:08:13.431Z] Command:       /opt/homebrew/Cellar/node/18.10.0/bin/node /opt/homebrew/bin/firebase init
+[debug] [2022-10-05T18:08:13.431Z] CLI Version:   11.13.0
+[debug] [2022-10-05T18:08:13.432Z] Platform:      darwin
+[debug] [2022-10-05T18:08:13.432Z] Node Version:  v18.10.0
+[debug] [2022-10-05T18:08:13.432Z] Time:          Wed Oct 05 2022 11:08:13 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-10-05T18:08:13.432Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-05T18:08:13.435Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-05T18:08:13.435Z] > authorizing via signed-in user (andrewsc33@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/CAn122/repos/trackerjs
+
