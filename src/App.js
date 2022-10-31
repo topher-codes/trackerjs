@@ -1,4 +1,4 @@
-import './app.css';
+import './App.css';
 import Card from './components/card';
 import Logo from './components/logo';
 import { app, db } from './hooks/firebase';
