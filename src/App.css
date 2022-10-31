@@ -12,17 +12,19 @@ h1 {
 
 .container {
 	display: grid;
-	grid-template-columns: 1fr 50px 1fr;
+	grid-template-columns: 1fr 200px 1fr;
+	grid-gap: 20px 0;
 }
 
 .grid-item {
-	background-color: #333;
-	color: #fff;
+	background-color: #eee;
+	color: #333;
 	padding: 20px;
 	text-align: center;
 }
 
 .grid-logo {
 	background-color: #fff;
+	text-align: center;
 	color: #333;
 }
